@@ -1,0 +1,12 @@
+https://github.com/niken157/uasPerpustakaan.git
+Aplikasi Perpustakaan kami memiliki 2 role, yaitu admmin dan user. Dalam halaman user akan ditampilkan deskripsi singkat mengenai perpustakaan 
+dan juga ada tabel peminjaman, 
+yang mana peminjaman itu nanti jika ditambahkan akan masuk kedalam data admin.
+Pada halaman admin berisi data buku, data peminjam, dan riwayat.
+Library yang kami gunakan untuk mengembangkan website kami 
+adalah bootstrap, java script, php, php my admin, html dan laravel.
+Kelompok 4:
+Niken Cahyaning Tyas (20104410037)
+Rizza Maidatul Masfufah (20104410024)
+Devi Budianti (20104410034)
+Nurliana Azizah (20104410031)
